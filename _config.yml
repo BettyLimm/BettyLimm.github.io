@@ -17,9 +17,9 @@ author: true
 name: '哎呦'
 NickName: '莉莉安的垃圾桶'
 webtitle: '哎呦'
-bio: 'your awesome bio'
+bio: '莉莉安的垃圾桶'
 about: true
-aboutyou: '四方食事，不过一碗人间烟火'
+aboutyou: '等你音信全无，我再去爱这世间万物'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -31,14 +31,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   github: ''
   Codepen: ''
   weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+  
 
 # 分页
 paginate: 1
