@@ -20,7 +20,7 @@ webtitle: '哎呦'
 bio: ''
 about: true
 aboutyou: '等你音信全无，我再去爱这世间万物'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/image/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
