@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Betty blogs'
+title: 'Betty&emsp;blogs'
 description: '四方食事，不过一碗人间烟火'
 keywords: '哎呦, Betty,java,程序员'
 url: 'https://BettyLimm.github.io' # your host
@@ -14,12 +14,12 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'Betty blogs'
+name: 'Betty&emsp;blogs'
 NickName: ''
 webtitle: 'Betty blogs'
 bio: ''
 about: true
-aboutyou: '                等你音信全无，我再去爱这世间万物'
+aboutyou: '&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;等你音信全无，我再去爱这世间万物'
 portraits: '/assets/image/profile.jpg' # your portraits image file path
 
 # SNS
